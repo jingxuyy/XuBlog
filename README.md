@@ -34,19 +34,19 @@
 1. **登录注册(过于简单不在展示)**
 2. **首页**
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\首页.png)
+![](img\首页.png)
 
 3. **首页文章浏览页面**
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\首页详情.png)
+![](img\首页详情.png)
 
 4. **对于具体文章，可以点击查看详情**
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\文章阅读.png)
+![](img\文章阅读.png)
 
 5. **登录的用户可以给文章进行评论**
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\文章评论.png)
+![](img\文章评论.png)
 
 #### 前台系统其它页面不在详细展示
 
@@ -58,45 +58,45 @@
 
 - 超级管理员后台主页
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\后台管理员主页.png)
+![](img\back\后台管理员主页.png)
 
 超级管理员除了写文章还可以进行系统管理和内容管理。
 
 - 超级管理员后台系统管理(用户管理)
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员进行用户管理.png)
+![](img\back\管理员进行用户管理.png)
 
 - 超级管理员可以直接修改用户信息
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员修改用户信息.png)
+![](img\back\管理员修改用户信息.png)
 
 - 超级管理员后台系统管理(角色管理)
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员管理角色.png)
+![](img\back\管理员管理角色.png)
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员修改角色.png)
+![](img\back\管理员修改角色.png)
 
 - 超级管理员后台系统管理(菜单管理)
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员菜单管理.png)
+![](img\back\管理员菜单管理.png)
 
 - 超级管理员后台内容管理(文章管理)
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员进行文章管理.png)
+![](img\back\管理员进行文章管理.png)
 
 其它分类、友联、标签管理类似
 
 - 超级管理员后台写文章
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\管理员写博文.png)
+![](img\back\管理员写博文.png)
 
 #### 普通管理员后台只能管理友联
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\普通管理员.png)
+![](img\back\普通管理员.png)
 
 ### 普通用户只能写文章
 
-![](C:\Users\86136\Desktop\XuBlog\README.assets\普通用户写博文.png)
+![](img\back\普通用户写博文.png)
 
 ### 整个项目非常简单，只涉及用户和文章。用户拥有角色，用来鉴权
 
